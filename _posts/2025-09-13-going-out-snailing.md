@@ -36,7 +36,7 @@ tags: ["Cape Shore", "Moon Snail", "Mud snail", "Neverita duplicatus"]
 <!-- /wp:paragraph -->
 
 <!-- wp:media-text {"mediaId":752,"mediaType":"image"} -->
-<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="/assets/img/3143674951_b99f06da1f_o.jpg" alt="" class="wp-image-752 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:details -->
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img src="/assets/img/3143674951_b99f06da1f_o.jpg" alt="Atlantic Moon Snail in mudflat" class="wp-image-752 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:details -->
 <details class="wp-block-details"><summary>Moon snails (<em>Neverita (=Polinices) duplicatus</em>)</summary><!-- wp:paragraph -->
 <p>Moon snails are a predatory gastropod found along the Eastern coast of North America. </p>
 <!-- /wp:paragraph -->

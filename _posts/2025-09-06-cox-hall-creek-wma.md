@@ -37,15 +37,15 @@ tags: ["Beginner-friendly hikes", "Cox Hall Creek WMA", "Hiking in New Jersey", 
 
 <!-- wp:gallery {"linkTo":"none"} -->
 <figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":651,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/IMG_20250705_165717214-1-scaled.jpg" alt="" class="wp-image-651"/></figure>
+<figure class="wp-block-image size-large"><img src="/assets/img/IMG_20250705_165717214-1-scaled.jpg" alt="Trail at Cox Hall Creek WMA" class="wp-image-651"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":650,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/IMG_20250705_165808893-2-scaled.jpg" alt="" class="wp-image-650"/></figure>
+<figure class="wp-block-image size-large"><img src="/assets/img/IMG_20250705_165808893-2-scaled.jpg" alt="Pond at Cox Hall Creek WMA" class="wp-image-650"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:image {"id":652,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="/assets/img/IMG_20250705_165930526-1-scaled.jpg" alt="" class="wp-image-652"/></figure>
+<figure class="wp-block-image size-large"><img src="/assets/img/IMG_20250705_165930526-1-scaled.jpg" alt="Nature at Cox Hall Creek WMA" class="wp-image-652"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
