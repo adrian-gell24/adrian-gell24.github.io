@@ -1,11 +1,8 @@
 # The Site Configuration
 
 
-# Import the theme (use remote_theme for GitHub Pages)
-# theme: jekyll-theme-chirpy
-
-# Use local Chirpy theme
-theme: jekyll-theme-chirpy
+# Import the theme
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Required plugins for Chirpy and GitHub Pages
 plugins:
