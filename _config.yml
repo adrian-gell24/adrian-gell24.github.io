@@ -2,6 +2,7 @@
 
 
 # Import the theme
+# GitHub Pages only supports bundled themes via theme; third-party themes must use remote_theme
 remote_theme: cotes2020/jekyll-theme-chirpy
 
 # Required plugins for Chirpy and GitHub Pages
