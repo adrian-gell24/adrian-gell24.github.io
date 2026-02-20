@@ -6,7 +6,6 @@ categories: ["Hiking", "Travel"]
 tags: ["Beginner-friendly hikes", "Cox Hall Creek WMA", "Hiking in New Jersey", "Jogging trails", "Nature walks", "Wildlife Management Areas"]
 ---
 
-<<<<<<< HEAD
 <!-- wp:paragraph -->
 <p>Cox Hall Creek Wildlife Management Area is a surprisingly peaceful retreat tucked away behind quiet Cape May neighborhoods. This was one of the first hiking and walking trail areas I explored during my time in the Greater Cape May area, and it left me with a memorable first impression. I would highly recommend it to others looking for either a peaceful and quiet community park or an easy 5km hike.</p>
 <!-- /wp:paragraph -->
@@ -65,5 +64,3 @@ Cox Hall Creek WMA trails:
 
 Upon exiting my car, I remember thinking to myself whether this is actually a hiking area. The first thing you see are well paved walking paths surrounding a pond stocked with trout. It reminded me more of some areas within Central Park in New York City than a hiking trail. Given that it is so well paved, I actually felt motivated  to have a jog.
 
-Enjoyed this post? Never miss out on future posts by following us.
->>>>>>> 5853115 (Restore posts after Chirpy Starter reset)

@@ -6,7 +6,6 @@ categories: ["Travel"]
 tags: ["Cape Shore", "Moon Snail", "Mud snail", "Neverita duplicatus"]
 ---
 
-<<<<<<< HEAD
 <!-- wp:paragraph -->
 <p>Yesterday, I assisted a grad student to try to find moon snails during the last good low tide of the month. When we had a conversation about whether I wanted to join, I said, "For sure! I'd love to go out snailing!" She gave me a look.</p>
 <!-- /wp:paragraph -->
@@ -62,4 +61,3 @@ Yesterday, I assisted a grad student to try to find moon snails during the last 
 I don't know when or how I came up with the term "snailing," but I will take the credit for making up the term (even if truthfully it was my supervisor, or another grad student I helped find drill snails for). Just like fishing, spearing, kayaking, kiting....why not snailing? It's so much easier than going through the trouble of saying, "We're going to go out to find moon snails in the mudflats at low tide." Just. Snailing. Haha, the term just makes me happy.
 
 I think the best work, or the best part of environmental science jobs is the field work. That night, putting on water shoes and walking out into the muddy sand, sometimes thigh-high water, it did not feel like work or research. Yes, the moon snails we hoped to find were meant for an experiment, but in the moment while exploring the mud flats, it did not feel like  work. It felt like an exploration and fun!
->>>>>>> 5853115 (Restore posts after Chirpy Starter reset)
